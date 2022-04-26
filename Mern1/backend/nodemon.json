@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "theodosis",
+    "DB_PASSWORD": "theodosis",
+    "DB_NAME": "places",
+    "GOOGLE_API_KEY": "AIzaSyCd8_lnNgAN8gxKS21IMGPWTfLI2LyDkUU",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
